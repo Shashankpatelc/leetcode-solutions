@@ -15,6 +15,7 @@ easy/
     ├── two_sum.cpp
     └── two_sum.py
 
+
 medium/
 └── 03_longest_substring/
     ├── longest_substring.cpp
